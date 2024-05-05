@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.main-cont {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cont {
+  height: 300px;
+  width: 600px;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 38px;
+}
+
+.selection-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.selection-item {
+  width: 200px;
+  height: 40px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.para {
+  font-family: Roboto;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.country{
+  font-size: 24px;
+  font-family: Roboto;
+  font-weight: bold;
+}
